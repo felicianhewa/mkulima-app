@@ -1,2 +1,2 @@
 # mkulima-app
-for mkulima data app
+[Download Word Document](https://raw.githubusercontent.com/felicianhewa/mkulima app/main/privace polcy.docx)
