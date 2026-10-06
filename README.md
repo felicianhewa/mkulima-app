@@ -1,2 +1,2 @@
 # mkulima-app
-https://raw.githubusercontent.com/felicianhewa/mkulima-app/main/privace%20polcy.docx
+<a href="./privace%20polcy.docx" target="_blank">Open Document Page</a> 
